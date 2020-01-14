@@ -1,0 +1,1 @@
+# --nome-conjunto-de-ferramentas-EdgedesignCZ-PHPQA-usos-mickaelandrieu-phpqa-ga-v1.0
